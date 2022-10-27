@@ -4,7 +4,7 @@ namespace Satellite\Launch;
 
 use Psr\EventDispatcher\EventDispatcherInterface;
 
-class SatelliteLaunch {
+class SatelliteLaunch implements SatelliteLaunchInterface {
     protected EventDispatcherInterface $dispatcher;
     protected SatelliteAppInterface $app;
 

@@ -2,9 +2,9 @@
 
 [![Latest Stable Version](https://poser.pugx.org/orbiter/satellite-launch/version.svg)](https://packagist.org/packages/orbiter/satellite-launch)
 [![Latest Unstable Version](https://poser.pugx.org/orbiter/satellite-launch/v/unstable.svg)](https://packagist.org/packages/orbiter/satellite-launch)
-[![codecov](https://codecov.io/gh/bemit/satellite/branch/master/graph/badge.svg?token=N376EQ2T5O)](https://codecov.io/gh/bemit/satellite)
+[![codecov](https://codecov.io/gh/bemit/satellite-launch/branch/main/graph/badge.svg?token=N376EQ2T5O)](https://codecov.io/gh/bemit/satellite-launch)
 [![Total Downloads](https://poser.pugx.org/orbiter/satellite-launch/downloads.svg)](https://packagist.org/packages/orbiter/satellite-launch)
-[![Github actions Build](https://github.com/bemit/satellite/actions/workflows/blank.yml/badge.svg)](https://github.com/bemit/satellite/actions)
+[![Github actions Build](https://github.com/bemit/satellite-launch/actions/workflows/blank.yml/badge.svg)](https://github.com/bemit/satellite-launch/actions)
 [![PHP Version Require](http://poser.pugx.org/orbiter/satellite-launch/require/php)](https://packagist.org/packages/orbiter/satellite-launch)
 
 PHP `SatelliteApp` interface, to launch a new cli or routing app with a **PSR-14** event dispatcher.

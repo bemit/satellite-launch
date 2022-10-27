@@ -12,7 +12,7 @@ class SatelliteModule {
     protected function getDependencies(): array {
         return [
             'services' => [
-                \Satellite\Launch\SatelliteLaunch::class => \Satellite\Launch\SatelliteLaunch::class,
+                \Satellite\Launch\SatelliteLaunchInterface::class => \Satellite\Launch\SatelliteLaunch::class,
                 \Satellite\Launch\SatelliteAppInfoInterface::class => \Satellite\Launch\SatelliteAppInfo::class,
                 \Satellite\Launch\SatelliteAppInterface::class => \Satellite\Launch\SatelliteApp::class,
             ],
